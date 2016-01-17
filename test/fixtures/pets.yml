@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  user_id: 
+  age: 1
+  sex: false
+  breed: MyString
+  combats: 1
+  wins: 1
+  loses: 1
+
+two:
+  name: MyString
+  user_id: 
+  age: 1
+  sex: false
+  breed: MyString
+  combats: 1
+  wins: 1
+  loses: 1
